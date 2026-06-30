@@ -1,12 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="KIA Service">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="KIA Service — автосервис KIA">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#e23744"/>
       <stop offset="1" stop-color="#c62b39"/>
     </linearGradient>
   </defs>
-  <rect x="3" y="3" width="58" height="58" rx="18" fill="url(#g)"/>
-  <circle cx="32" cy="32" r="19" fill="#fbf7f2" opacity="0.14"/>
-  <path d="M22 20h6.5l5.5 9.2V20H40v24h-6.3l-5.7-9.6V44H22z" fill="#fbf7f2"/>
-  <circle cx="46" cy="22" r="3.2" fill="#f5a524"/>
+  <rect x="3" y="3" width="58" height="58" rx="16" fill="url(#g)"/>
+  <text x="32" y="35" text-anchor="middle" dominant-baseline="central"
+        font-family="'Segoe UI', system-ui, Arial, sans-serif" font-weight="800"
+        font-size="22" letter-spacing="1" fill="#fff">KIA</text>
+  <circle cx="50" cy="15" r="3.4" fill="#f5a524"/>
 </svg>
