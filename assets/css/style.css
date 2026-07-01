@@ -322,7 +322,7 @@ textarea.field__input { resize: vertical; min-height: 88px; }
 .foot__col a { display: block; padding: .3rem 0; font-size: .92rem; transition: color .2s; }
 .foot__col a:hover { color: #ffc7cd; }
 .foot__contacts p { margin-bottom: .5rem; font-size: .92rem; }
-.foot__cta { margin-top: 1rem; }
+.foot__col a.foot__cta { display: inline-flex; width: auto; padding: .82rem 1.5rem; margin-top: 1rem; }
 .foot__bottom { border-top: 1px solid rgba(255,255,255,.1); padding: 1.4rem 0; }
 .foot__bottom-in { display: flex; flex-wrap: wrap; gap: .6rem; justify-content: space-between; font-size: .82rem; color: rgba(255,255,255,.56); }
 
